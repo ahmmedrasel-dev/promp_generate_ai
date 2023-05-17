@@ -2,7 +2,6 @@
 	"name": "promptgenerateai",
 	"version": "0.1.0",
 	"private": true,
-	"experimentalFeatures": ["top-level-await"],
 	"scripts": {
 		"dev": "next dev",
 		"build": "next build",
